@@ -1,0 +1,100 @@
+/* Add this to your CSS file or style block */
+.input-field {
+    appearance: none;
+    background-color: #edf2f7;
+    border: 1px solid #e2e8f0;
+    padding: 0.75rem;
+    width: 100%;
+    border-radius: 0.375rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  }
+  
+  .input-field:focus {
+    outline: none;
+    border-color: #10b981;
+    box-shadow: 0 0 0 3px rgba(16, 185, 129, 0.2);
+  }
+
+  .project-field {
+    appearance: none;
+    background-color: #edf2f7;
+    border: 1px solid #e2e8f0;
+    padding: 0.75rem;
+    width: 100%;
+    border-radius: 0.375rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  }
+  
+  .project-field:focus {
+    outline: none;
+    border-color: purple;
+    box-shadow: 0 0 0 3px rgba(174, 16, 185, 0.2);
+  }
+
+  .curricular-field {
+    appearance: none;
+    background-color: #edf2f7;
+    border: 1px solid #e2e8f0;
+    padding: 0.75rem;
+    width: 100%;
+    border-radius: 0.375rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  }
+  
+  .curricular-field:focus {
+    outline: none;
+    border-color: red;
+    box-shadow: 0 0 0 3px rgba(185, 16, 30, 0.2);
+  }
+
+  .achievement-field {
+    appearance: none;
+    background-color: #edf2f7;
+    border: 1px solid #e2e8f0;
+    padding: 0.75rem;
+    width: 100%;
+    border-radius: 0.375rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  }
+  
+  .achievement-field:focus {
+    outline: none;
+    border-color: orange;
+    box-shadow: 0 0 0 3px rgba(185, 106, 16, 0.2);
+  }
+
+  .education-field {
+    appearance: none;
+    background-color: #edf2f7;
+    border: 1px solid #e2e8f0;
+    padding: 0.75rem;
+    width: 100%;
+    border-radius: 0.375rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  }
+  
+  .education-field:focus {
+    outline: none;
+    border-color: rgb(255, 221, 0);
+    box-shadow: 0 0 0 3px rgba(179, 185, 16, 0.2);
+  }
+  
+  .form-radio {
+    appearance: none;
+    width: 1.25rem;
+    height: 1.25rem;
+    border: 2px solid #e2e8f0;
+    border-radius: 50%;
+    transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+  }
+  
+  .form-radio:checked {
+    background-color: #10b981;
+    border-color: #10b981;
+  }
+  
+  .text-danger{
+    color: red;
+  }
+ 
+  

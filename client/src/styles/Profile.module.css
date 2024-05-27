@@ -1,0 +1,10 @@
+.glass{
+    @apply h-auto w-auto;}
+
+.profile_img{
+    @apply w-40 cursor-pointer;
+}
+
+.textbox{
+    @apply w-3/4;
+}
